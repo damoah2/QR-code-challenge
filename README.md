@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/semantic-html5-markup-and-mobilefirst-work-rb8bt71Ljv]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/semantic-html5-markup-and-mobilefirst-work-rb8bt71Ljv))
 - Live Site URL: [https://damoah2.github.io/QR-code-challenge/](https://damoah2.github.io/QR-code-challenge/)
 
 ## My process
